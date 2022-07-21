@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-image: url("../public/images/bg-3.png");
+  background-size: cover;
+}
+html{
+    background-image: url("../public/images/bg-3.png");
+      background-size: cover;
+}
